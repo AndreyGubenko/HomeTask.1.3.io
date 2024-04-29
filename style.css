@@ -1,0 +1,32 @@
+.container {
+  overflow: hidden;
+  display: flex;
+}
+.box {
+  display: inline-block;
+  height: 360px;
+  width: 400px;
+}
+.box div {
+  border: 1px solid black;
+}
+
+.box img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+}
+
+.box h3 {
+  margin-left: 40px;
+}
+
+.box p {
+  margin-left: 40px;
+}
+
+button {
+  margin-left: 40px;
+}
